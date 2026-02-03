@@ -1,0 +1,7 @@
+Caches/
+**/Caches/
+*.tmp
+*.log
+.DS_Store
+*.mp4
+Thumbs.db
